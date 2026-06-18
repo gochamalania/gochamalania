@@ -52,10 +52,6 @@ I enjoy transforming UI ideas into real-world, performant and accessible applica
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gochamalania&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gochamalania&theme=tokyo-night&hide_border=true" />
-</p>
-
 
 ---
 
